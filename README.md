@@ -8,6 +8,8 @@ This project analyzes a dataset of vehicle specifications, engine characteristic
 
 The dataset (`CO2_Emissions.csv`) contains **7,385 records** across **12 features**, covering vehicle make, model, class, engine specs, fuel type, fuel consumption (city/highway/combined), and CO₂ emissions.
 
+**Source:** [CO2 Emission by Vehicles — Kaggle](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles/data)
+
 | Feature | Description |
 |---|---|
 | Make | Vehicle manufacturer |
